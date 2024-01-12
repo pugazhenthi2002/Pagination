@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 15 for Windows Desktop
+VisualStudioVersion = 15.0.34031.82
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PageNavigation", "PageNavigation\PageNavigation.csproj", "{8948B85F-1712-496B-AB08-C1BF0BA45F0C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8948B85F-1712-496B-AB08-C1BF0BA45F0C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8948B85F-1712-496B-AB08-C1BF0BA45F0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8948B85F-1712-496B-AB08-C1BF0BA45F0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8948B85F-1712-496B-AB08-C1BF0BA45F0C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {741A47E7-8E27-4EEC-9E62-3318C44E468F}
+	EndGlobalSection
+EndGlobal
